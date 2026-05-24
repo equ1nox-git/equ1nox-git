@@ -8,7 +8,7 @@ Currently: CS @ Butler Community College → WSU transfer track, targeting platf
 
 ### Projects
 
-**[Straddle](https://github.com/equ1nox-git/straddle)** — Minimal Ollama bridge. Single OpenAI-compatible endpoint for every local client with persistent prompt injection and KV cache tuning. ~110 lines of Python.
+**[Straddle](https://github.com/equ1nox-git/straddle)** — Minimal Ollama proxy. Single OpenAI-compatible endpoint for every local client with persistent prompt injection and KV cache tuning. ~110 lines of Python.
 
 **[OpenSpace](https://github.com/equ1nox-git/openspace)** — Self-hosted local AI router. Intent classifier dispatches requests to specialist subagent models with automatic fallback chains and RAM-aware lifecycle management. No cloud dependency.
 
@@ -18,7 +18,7 @@ Currently: CS @ Butler Community College → WSU transfer track, targeting platf
 
 ### Stack
 
-Python · FastAPI · Linux · Ollama · Docker · Tailscale · systemd · Vulkan compute
+Python · FastAPI · Linux · Ollama · Hermes · Tailscale · systemd · Vulkan compute
 
 ---
 
@@ -26,3 +26,4 @@ Python · FastAPI · Linux · Ollama · Docker · Tailscale · systemd · Vulkan
 ![Linux](https://img.shields.io/badge/linux-ubuntu-e95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Ollama](https://img.shields.io/badge/ollama-local%20AI-black?style=flat-square)
+
