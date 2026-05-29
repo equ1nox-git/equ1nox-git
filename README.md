@@ -16,11 +16,11 @@ Target: Remote platform/cloud engineering with AI infrastructure focus.
 
 ### Projects
 
-**[Straddle](https://github.com/equ1nox-git/straddle)** — Ollama inference proxy. Unified OpenAI-compatible endpoint for all local clients, persistent system prompt injection, live email/calendar context enrichment, and KV cache stability. Built to eliminate per-client Ollama configuration across a multi-device homelab.
+**[Straddle](https://github.com/thomas-m-brown/straddle)** — Ollama inference proxy. Unified OpenAI-compatible endpoint for all local clients, persistent system prompt injection, live email/calendar context enrichment, and KV cache stability. Built to eliminate per-client Ollama configuration across a multi-device homelab.
 
-**[OpenSpace](https://github.com/equ1nox-git/openspace)** — Self-hosted AI router. A fast local model classifies intent before dispatch, routes to the right specialist model, falls back through a defined chain on failure, and checks available RAM before loading. No cloud dependency.
+**[OpenSpace](https://github.com/thomas-m-brown/openspace)** — Self-hosted AI router. A fast local model classifies intent before dispatch, routes to the right specialist model, falls back through a defined chain on failure, and checks available RAM before loading. No cloud dependency.
 
-**[OpenCode Agentic OS](https://github.com/equ1nox-git/opencode-agentic-os)** — 35 domain-specific agents for OpenCode: education tutors, DevOps, QA, sales, engineering. Includes a zero-LLM math calculator that handles arithmetic in under 100ms without touching a model.
+**[OpenCode Agentic OS](https://github.com/thomas-m-brown/opencode-agentic-os)** — 35 domain-specific agents for OpenCode: education tutors, DevOps, QA, sales, engineering. Includes a zero-LLM math calculator that handles arithmetic in under 100ms without touching a model.
 
 ---
 
